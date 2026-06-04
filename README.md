@@ -9,6 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝  
           M O N I T O R  v1.0
 ```
+</div>
 
 **A real-time system monitor for Linux, built from scratch in C.**
 
@@ -23,14 +24,10 @@
 
 ## 🖥️ Preview
 
+<div align="center">
+
 <img width="1920" height="1041" alt="ghost" src="https://github.com/user-attachments/assets/9f04283f-9453-431b-987f-b61fa80b705e" />
 
--->
-
-<div align="center">
-<br>
-<img src="./demo.png" alt="Ghost Monitor Demo" width="800"/>
-<br><br>
 </div>
 
 ---
@@ -173,7 +170,7 @@ The warm-up read before the loop ensures the very first frame shows real data in
 
 ---
 
-🧠 Technologies Used
+## 🧠 Technologies Used
 
 C Language (Systems Programming)
 ncurses library
@@ -181,7 +178,7 @@ Linux /proc filesystem
 
 ---
 
-🚀 Project Goal
+## 🚀 Project Goal
 
 This project was built to deeply understand:
 
@@ -192,7 +189,7 @@ Low-level performance monitoring tools
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 <div align="center">
 
@@ -209,7 +206,7 @@ Low-level performance monitoring tools
 
 ---
 
-⭐ License
+## ⭐ License
 
 This project is open-source for educational purposes.
 
