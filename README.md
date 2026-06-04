@@ -9,7 +9,6 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝  
           M O N I T O R  v1.0
 ```
-</div>
 
 **A real-time system monitor for Linux, built from scratch in C.**
 
