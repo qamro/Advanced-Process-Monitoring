@@ -207,7 +207,7 @@ Low-level performance monitoring tools
 
 ---
 
-## ⭐ License
+## ⭐ License
 
 This project is open-source for educational purposes.
 
