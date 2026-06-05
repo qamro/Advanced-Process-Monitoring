@@ -47,7 +47,7 @@ Built as a deep dive into **systems programming**, it touches the Linux kernel i
 | **Memory 🧠** | Used / cached / total with live percentage bars |
 | **Network I/O 🌐** | RX and TX throughput in B/s · KB/s · MB/s |
 | **Disk I/O 💽** | Read and write throughput, auto-detects SATA / NVMe / VirtIO |
-| **Sparklines** | 40-sample ASCII history graph for CPU, memory, and network |
+| **Sparklines 📈** | 40-sample ASCII history graph for CPU, memory, and network |
 | **Load Average ⚡** | 1m / 5m / 15m system load from `/proc/loadavg` |
 | **Uptime Counter ⏱️** | Live session uptime in HH:MM:SS |
 | **Color Thresholds 🌡️** | Green → Amber → Red as load increases |
