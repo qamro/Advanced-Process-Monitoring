@@ -182,8 +182,11 @@ Linux /proc filesystem
 This project was built to deeply understand:
 
 Linux system internals
+
 Process and memory management
+
 Real-time terminal UI development
+
 Low-level performance monitoring tools
 
 ---
